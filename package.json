@@ -1,0 +1,17 @@
+{
+  "name": "ramdanlivecoding_01",
+  "version": "1.0.0",
+  "description": "Random Number Guessing Game.",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Guessing Game",
+    "Random Number Guessing Game",
+    "Random Number Guessing"
+  ],
+  "author": "Muhammad Muneeb",
+  "license": "ISC"
+}
